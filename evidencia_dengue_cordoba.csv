@@ -1,0 +1,6 @@
+tx_id|fecha_operacion|banco_origen|cuenta_origen|banco_destino|cuenta_destino|monto_transferido|estado
+F-001|1718020800000|banco galicia|0070000000000000000011|MercadoPago|0000003100000000000022| $ 1.250.000,00 |EXITOSA
+F-002|10-06-2026 10:15|GALICIA|alias.victima.dengue|mp|alias.mula.uno|1,500,000.00|EXITOSA
+F-003|NaN|BANCOR|0200000000000000000033|Naranja X|0000007900000000000044|50000.50|RECHAZADA
+F-004|2026/06/10 10:20:00|Brubank S.A|0270000000000000000055|Lemon|0000004400000000000066|$ 85.000,00 |EXITOSA
+F-005|1718022000|banco de la provincia de cordoba|0200000000000000000077|mercado pago|alias.mula.dos|2,100,300.00|EXITOSA
